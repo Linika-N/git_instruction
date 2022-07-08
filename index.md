@@ -27,3 +27,9 @@ git status
 git commit
 ```
 
+Наиболее полное руководство по командам Git можно посмотреть:
+
+<https://git-scm.com/docs/git#_git_commands>
+
+
+
