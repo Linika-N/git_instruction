@@ -37,6 +37,6 @@ git commit
 
 <https://git-scm.com/docs/git#_git_commands>
 
-![git logo](/git%20logo.png)
+![git logo](/git_logo.png)
 
 
