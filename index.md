@@ -1,10 +1,16 @@
 # Руководство по работе с Git
 
+<<<<<<< HEAD
 Для отмены несохраненных изменений необходимо внести команду:
 
 ```
 git reset --hard
 ```
+=======
+GitHub:
+
+![github](github.jpg)
+>>>>>>> 5781cee (Add github photo)
 
 Для работы с GitHub необходимо авторизоваться на сайте <https://github.com>. Затем там же создать репозиторий и подключить его к локальному репозиторию с помощью команды:
 ```
@@ -89,6 +95,6 @@ git commit
 
 <https://git-scm.com/docs/git#_git_commands>
 
-![git logo](/git_logo.png)
+![git logo](git_logo.png)
 
 
